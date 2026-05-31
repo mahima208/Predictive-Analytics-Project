@@ -1,0 +1,7 @@
+{
+  "timestamp_utc": "20260531T112218Z",
+  "train_end": "2026-03-31 00:00:00",
+  "train_length": 90,
+  "linear_path": "models\\v2_linear_20260531T112218Z.joblib",
+  "arima_path": "models\\v2_arima_20260531T112218Z.pkl"
+}
